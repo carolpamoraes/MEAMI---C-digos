@@ -1,0 +1,4 @@
+
+O código pode ser acessado através do link abaixo:
+
+https://colab.research.google.com/drive/1zuVJ5bTOfsltN3EyO1JYBWOFo8x4Q06A?usp=sharing
